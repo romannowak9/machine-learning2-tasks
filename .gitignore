@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# My ignores
+**/annotations/
+**/dataset_cats_dogs/
+**/images/
+**/ml_env/
+*.jpg
+*.jpeg
+*.png
+*.tar
+*.zip
+*.h5
+*.gz
+UM_lab8_solution.py
