@@ -186,3 +186,4 @@ cython_debug/
 *.h5
 *.gz
 UM_lab8_solution.py
+**/__MACOSX/
